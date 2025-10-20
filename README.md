@@ -46,6 +46,7 @@ Ensures unique identification and relationship integrity.
 
 🧾 Outcomes
 ✅ A well-structured, normalized relational schema
+
 ✅ ER Diagram representing entity relationships
 ✅ SQL script with DDL and sample DML queries
 ✅ Understanding of database design and normalization principles
